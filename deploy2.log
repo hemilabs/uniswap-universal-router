@@ -1,0 +1,73 @@
+Script ran successfully.
+
+== Return ==
+router: contract UniversalRouter 0x342F02d2DD445415D4b96ecCc45c3485ca27Ea6c
+
+== Logs ==
+  permit2: 0xB952578f3520EE8Ea45b7914994dcf4702cEe578
+  weth9: 0x4200000000000000000000000000000000000006
+  seaportV1_5: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  seaportV1_4: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  openseaConduit: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  nftxZap: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  x2y2: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  foundation: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  sudoswap: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  elementMarket: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  nft20Zap: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  cryptopunks: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  looksRareV2: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  routerRewardsDistributor: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  looksRareRewardsDistributor: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  looksRareToken: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  v2Factory: 0xd3623E3574b319D76Db82A0603A98dfA995725bD
+  v3Factory: 0xc2f8037a31a4f12b07d20D3f382b1aA03c94519B
+  Universal Router Deployed: 0x342F02d2DD445415D4b96ecCc45c3485ca27Ea6c
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 743111
+
+Estimated gas price: 0.000000104 gwei
+
+Estimated total gas used for script: 5157389
+
+Estimated amount required: 0.000000000536368456 ETH
+
+==========================
+##
+Sending transactions [0 - 0].
+⠁ [00:00:00] [##########################################################################################################################################################] 1/1 txes (0.0s)##
+Waiting for receipts.
+⠉ [00:00:29] [######################################################################################################################################################] 1/1 receipts (0.0s)
+##### 743111
+✅  [Success]Hash: 0xed83262501fb41e1410d7f920ca2ff0fe3f818a4ec5b07c2fe9c0cab11db59cb
+Contract Address: 0x342F02d2DD445415D4b96ecCc45c3485ca27Ea6c
+Block: 849065
+Paid: 0.000000000206360908 ETH (3968479 gas * 0.000000052 gwei)
+
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+Total Paid: 0.000000000206360908 ETH (3968479 gas * avg 0.000000052 gwei)
+##
+Start verification for (1) contracts
+Start verifying contract `0x342F02d2DD445415D4b96ecCc45c3485ca27Ea6c` deployed on 743111
+
+Submitting verification for [contracts/UniversalRouter.sol:UniversalRouter] 0x342F02d2DD445415D4b96ecCc45c3485ca27Ea6c.
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `342f02d2dd445415d4b96eccc45c3485ca27ea6c666b2bd3`
+        URL: https://testnet.explorer.hemi.xyz/address/0x342f02d2dd445415d4b96eccc45c3485ca27ea6c
+Contract verification status:
+Response: `OK`
+Details: `Unknown UID`
+All (1) contracts were verified!
+
+Transactions saved to: /Users/rohit/Workspace/bloq/universal-router/broadcast/DeployHemiSepolia.s.sol/743111/run-latest.json
+
+Sensitive values saved to: /Users/rohit/Workspace/bloq/universal-router/cache/DeployHemiSepolia.s.sol/743111/run-latest.json
